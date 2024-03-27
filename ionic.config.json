@@ -1,0 +1,7 @@
+{
+  "name": "efirefly",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
